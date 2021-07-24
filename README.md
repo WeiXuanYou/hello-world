@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+
+Hi !
+
+My name is WeiXuan You , my professional is AI and CS .
