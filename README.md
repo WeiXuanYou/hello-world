@@ -11,6 +11,9 @@ My professional
 4. OS
      - CS
        - TS 
+- []test
+- [x] study English
+
 - [x] TEST
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
