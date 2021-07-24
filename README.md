@@ -23,3 +23,5 @@ My name is WeiXuan You
 :+1:
 # hello-world-2
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.4-brightgreen)
+![OpenCV](https://img.shields.io/badge/OpenCV-v4.5-brightgreen)
+![Numpy](https://img.shields.io/badge/Numpy-v1.19-brightgreen)
