@@ -1,5 +1,4 @@
 # hello-world
-![北科照片jpg](https://user-images.githubusercontent.com/62496238/126866000-7ca66661-44c4-4e64-9f3a-9e97a8159bd6.jpg)
 🃏
 [google page](https://translate.google.com/)
 This site was built using 
@@ -19,8 +18,6 @@ My name is WeiXuan You
 - [ ] Add delight to the experience when all tasks are complete :tada:
 5.test
 > 123
-
-![alt text](https://user-images.githubusercontent.com/62496238/126865719-bf1bc408-7213-4cfc-a7b8-196b462c0b93.jpg)
 
 > test
 :+1:
