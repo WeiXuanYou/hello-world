@@ -11,7 +11,7 @@ My professional
 4. OS
      - CS
        - TS 
-- []test
+- [ ] test
 - [x] study English
 
 - [x] TEST
