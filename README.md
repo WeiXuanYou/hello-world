@@ -1,5 +1,7 @@
 # hello-world
+![北科照片jpg](https://user-images.githubusercontent.com/62496238/126866000-7ca66661-44c4-4e64-9f3a-9e97a8159bd6.jpg)
 
+[google page](https://translate.google.com/)
 This site was built using 
 My name is WeiXuan You
 My professional
