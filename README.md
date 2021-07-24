@@ -1,4 +1,4 @@
 # hello-world
 
-This site was built using [google paga](https://translate.google.com/).
+This site was built using 
 My name is WeiXuan You
