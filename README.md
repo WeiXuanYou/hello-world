@@ -4,7 +4,7 @@
 [google page](https://translate.google.com/)
 This site was built using 
 My name is WeiXuan You
-My professional
+**My professional**
 1. OS
 2. Pytohn
 3. CS
